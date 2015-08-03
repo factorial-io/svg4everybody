@@ -1,18 +1,17 @@
 {
-	"name": "svg4everybody",
-	"repository": "factorial-io/svg4everybody",
+  "name": "svg4everybody",
+  "version": "1.1.0",
+  "repository": "factorial-io/svg4everybody",
   "authors": [
     "Jonathan Neal <jonathantneal+github@gmail.com>"
   ],
-	"version": "1.0.0",
   "keywords": [
     "svg",
     "spritemaps",
     "polyfill",
     "ie"
   ],
-	"scripts": [
-		"svg4everybody.js"
-	],
-	"license": "CC0 1.0"
+  "scripts": [
+    "svg4everybody.js"
+  ]
 }
